@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!!! Karthik's sample Registration Form!!!</h1>
+    <h1>Welcome!!! Karthik M S sample Registration Form!!!</h1>
     <p>Please fill in this form correctly!</p>
     <hr>
     <br>
